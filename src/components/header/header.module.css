@@ -1,0 +1,13 @@
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  color: white;
+  height: 75px;
+  background-color: olive;
+}
+
+.data {
+  margin-top: 17px;
+  margin-left: 20px;
+}
